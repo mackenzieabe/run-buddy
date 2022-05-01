@@ -82,7 +82,7 @@ section {
     background-color: #fce138;
     padding: 20px;
     width: 500px;
-    color: #024e762;
+    color: #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -220,4 +220,16 @@ font-size: 16px;
     margin: 30px 0 0 60px;
     color: white;
   } 
-  
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+  }
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+} 
+.contact-info a {
+    color:#fce138
+}
